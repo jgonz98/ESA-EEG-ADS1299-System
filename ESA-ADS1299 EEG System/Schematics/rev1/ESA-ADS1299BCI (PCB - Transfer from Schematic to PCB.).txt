@@ -1,0 +1,21 @@
+Transfer from Schematic to PCB.
+-------------------------------
+
+Report Written:     Friday, August 14, 2020
+Design Path:        C:\Users\Jose\Documents\ESA\Schematics\ESA-ADS1299BCI.pcb
+Design Title:       
+Created:            8/14/2020 6:22:05 AM
+Last Saved:         8/14/2020 6:22:45 AM
+Editing Time:       0 min
+Units:              thou (precision 0)
+
+Could not load component "Terminal" package "SPICE" into target design.
+Could not add "D13" component "Terminal" package "SPICE" to target design.
+Could not add "D12" component "Terminal" package "SPICE" to target design.
+Could not add "D11" component "Terminal" package "SPICE" to target design.
+Could not add "D10" component "Terminal" package "SPICE" to target design.
+Could not add "D9" component "Terminal" package "SPICE" to target design.
+Could not add "D8" component "Terminal" package "SPICE" to target design.
+Could not add "D7" component "Terminal" package "SPICE" to target design.
+
+End Of Report.

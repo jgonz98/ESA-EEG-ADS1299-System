@@ -1,0 +1,21 @@
+Forward Design Changes Report
+-----------------------------
+
+Report Written:     Friday, August 14, 2020
+Design Path:        C:\Users\Jose\Documents\ESA\Schematics\ESA-ADS1299BCI.pcb
+Design Title:       
+Created:            8/14/2020 6:22:05 AM
+Last Saved:         8/14/2020 6:22:46 AM
+Editing Time:       1 min
+Units:              thou (precision 0)
+
+Error: Unable to add component reference "D13" of component "Terminal", package "SPICE" because No PCB information for Component "Terminal"..
+Error: Unable to add component reference "D12" of component "Terminal", package "SPICE" because No PCB information for Component "Terminal"..
+Error: Unable to add component reference "D11" of component "Terminal", package "SPICE" because No PCB information for Component "Terminal"..
+Error: Unable to add component reference "D10" of component "Terminal", package "SPICE" because No PCB information for Component "Terminal"..
+Error: Unable to add component reference "D9" of component "Terminal", package "SPICE" because No PCB information for Component "Terminal"..
+Error: Unable to add component reference "D8" of component "Terminal", package "SPICE" because No PCB information for Component "Terminal"..
+Error: Unable to add component reference "D7" of component "Terminal", package "SPICE" because No PCB information for Component "Terminal"..
+
+
+End Of Report.

@@ -1,0 +1,36 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report Written:     Friday, August 14, 2020
+Design Path:        C:\Users\Jose\Documents\ESA\Schematics\ESA-ADS1299BCI.pcb
+Design Title:       
+Created:            8/14/2020 6:22:05 AM
+Last Saved:         8/14/2020 6:22:46 AM
+Editing Time:       1 min
+Units:              thou (precision 0)
+
+
+Checking integrity of Schematic "C:\Users\Jose\Documents\ESA\Schematics\ESA-ADS1299BCI.sch" with PCB "C:\Users\Jose\Documents\ESA\Schematics\ESA-ADS1299BCI.pcb"
+================================================================================================================================================================
+
+The PCB and Schematic designs do not match.
+To bring them into line, you will need to make the following changes to the PCB design:
+
+Add Component "D13" [Terminal]
+Add Component "D12" [Terminal]
+Add Component "D11" [Terminal]
+Add Component "D10" [Terminal]
+Add Component "D9" [Terminal]
+Add Component "D8" [Terminal]
+Add Component "D7" [Terminal]
+
+Connect Pin D13-1 to Net "SCLK"
+Connect Pin D12-1 to Net "MISO"
+Connect Pin D11-1 to Net "MOSI"
+Connect Pin D10-1 to Net "CS"
+Connect Pin D9-1 to Net "RESET"
+Connect Pin D8-1 to Net "DRDY"
+Connect Pin D7-1 to Net "PWDN"
+
+
+End Of Report.
